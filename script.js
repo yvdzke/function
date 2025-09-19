@@ -5,4 +5,3 @@ function jumlahVolumeDuaKubus(a, b) {
   var totalVolume = volumeA + volumeB;
   return totalVolume;
 }
-console.log(jumlahVolumeDuaKubus(8, 3)); // 539
